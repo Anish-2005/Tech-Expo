@@ -1,6 +1,6 @@
 # 🌍 Atmospheric Quality Intelligence (AQI) Monitor
 
-**A Space-Themed Air Quality Monitoring System for the Bharatiya Antariksh Hackathon**
+**A Space-Themed Air Quality Monitoring System for the Tech Expo Hackathon**
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -9,7 +9,7 @@
 
 ## 🚀 Overview
 
-The **Atmospheric Quality Intelligence (AQI) Monitor** is a comprehensive air quality monitoring solution developed for the Bharatiya Antariksh Hackathon. This project combines a space-themed Flutter mobile application with a robust Node.js backend to provide real-time air quality data across India using satellite-grade precision and government APIs.
+The **Atmospheric Quality Intelligence (AQI) Monitor** is a comprehensive air quality monitoring solution developed for the Tech Expo Hackathon. This project combines a space-themed Flutter mobile application with a robust Node.js backend to provide real-time air quality data across India using satellite-grade precision and government APIs.
 
 ### 🌟 Key Features
 
@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎯 Hackathon Context
 
-Developed for the **Bharatiya Antariksh Hackathon**, this project demonstrates:
+Developed for the **Tech Expo Hackathon**, this project demonstrates:
 - **Space Technology Integration**: Satellite-grade precision in air quality monitoring
 - **Government Data Utilization**: Leveraging data.gov.in APIs
 - **Cross-Platform Development**: Unified solution across all major platforms
@@ -256,10 +256,10 @@ Developed for the **Bharatiya Antariksh Hackathon**, this project demonstrates:
 
 ## 📞 Support
 
-For support, email [your-email@domain.com] or create an issue in the GitHub repository.
+For support, create an issue in the GitHub repository.
 
 ---
 
 **🛰️ "Monitoring Earth's Atmosphere with Space-Grade Precision" 🛰️**
 
-*Built with ❤️ for the Bharatiya Antariksh Hackathon*
+*Built with ❤️ for the Tech Expo Hackathon*
